@@ -21,7 +21,7 @@ An open-source, layered context architecture for persistent AI-assisted work acr
 
 The framework uses a stable bootstrap, operating guidance, repository-level `AGENTS.md`, private project context, implementation evidence, and explicit correction/status rules to reduce context loss across long-running work.
 
-**Current version:** `v1.0.0`  
+**Current version:** `v1.1.0`  
 **License:** MIT  
 **Canonical upstream:** Tech-World LLC
 
